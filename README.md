@@ -1,2 +1,2 @@
-# PuDB_Tutorial
-Understanding the PuDB
+## Official documentation
+https://documen.tician.de/pudb/starting.html
